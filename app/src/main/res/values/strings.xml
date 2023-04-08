@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerApp</string>
+    <string name="tv_text">\t\t\t\t Welcome to the app. \nClick the button below to start!</string>
+    <string name="btn_text">Roll Dice</string>
+</resources>
